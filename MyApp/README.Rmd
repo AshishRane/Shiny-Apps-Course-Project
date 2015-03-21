@@ -1,0 +1,8 @@
+---
+title: "README"
+author: "Ashish Rane"
+date: "21 March 2015"
+output: html_document
+---
+
+This course project for Shiny Apps is for the "Developing Data Products" course offered by Coursera from Johns Hopkins University 
